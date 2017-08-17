@@ -1,5 +1,6 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
+
 ![alt text](https://github.com/SyedAzizEnam/Path-Planning/blob/master/path-plan.png)
 
 ### Simulator.
@@ -23,7 +24,7 @@ The path is created by fitting a spline to 5 ways points. The waypoints consist 
 
 ### Video
 
-Here is video of the planner in action!
+Here is a video of the planner in action!
 
 [![IMAGE ALT TEXT
 HERE](https://img.youtube.com/vi/9bwMzlo6MhA/0.jpg)](https://www.youtube.com/watch?v=9bwMzlo6MhA)
